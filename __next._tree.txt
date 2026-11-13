@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/1b_wisxbmign2.css","style"]
+:HL["/shahjahan-marquee/_next/static/chunks/3kvo1l0l6ll9i.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"0TUf33tB7M9xhBPH_xKp2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ImPImD3eizBodyG6CXECt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
